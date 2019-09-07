@@ -1,12 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# MSDR
+# msdr
 
 <!-- badges: start -->
 
 [![Travis build
-status](https://travis-ci.com/MagdyLaban/Mastering_Software_Development_in_R.svg?branch=master)](https://travis-ci.com/MagdyLaban/Mastering_Software_Development_in_R)
+status](https://travis-ci.org/MagdyLaban/Mastering_Software_Development_in_R_Capstone_Coursera.svg?branch=master)](https://travis-ci.org/MagdyLaban/Mastering_Software_Development_in_R_Capstone_Coursera)
 <!-- badges: end -->
 
 ``` r
